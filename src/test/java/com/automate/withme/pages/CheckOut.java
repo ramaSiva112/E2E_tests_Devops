@@ -1,5 +1,6 @@
 package com.automate.withme.pages;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.openqa.selenium.WebDriver;
@@ -72,12 +73,28 @@ public class CheckOut {
 	
 	public void Fill_billing_details(){
 		
-		//Read the Value from Excel Sheet 
+	/*
+	 * This code is commented as it requires DB connections
+	 * 
+	 * 
+	 * 	//Read the Value from Excel Sheet 
 		List<String> test_value_list = ExcelSheetUtils.Read();
 		//get the desired test value from list to a variable
 		String test_value = test_value_list.get(1);
 		//Take down db data into a list and pass the test value
 		List<String> DB_data = DataBaseUtils.Get_Billing_data(test_value);
+		
+		*/
+		
+		List<String> DB_data = new ArrayList<String>();
+		DB_data.add("Jhon");
+		DB_data.add("Jhon@example.com");
+		DB_data.add("1H RD Near goodstreet");
+		DB_data.add("Good City");
+		DB_data.add("1234567");
+		DB_data.add("Good State");
+		DB_data.add("Y");
+		
 		
 		utils.Input_Text(driver, username, DB_data.get(0));
 		utils.Input_Text(driver, email, DB_data.get(1));
