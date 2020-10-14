@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2020-10-07T11:07:15.882Z",
+        "start_timestamp": "2020-10-13T17:12:37.307Z",
         "before": [
           {
             "result": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 2000000,
+              "duration": 3000000,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3061000000,
+              "duration": 2766000000,
               "status": "passed"
             },
             "line": 6,
@@ -46,7 +46,7 @@
             "rows": [
               {
                 "cells": [
-                  "http://ec2-52-66-148-195.ap-south-1.compute.amazonaws.com/"
+                  "file:///C:/Users/Dell/Documents/Demo_DEVOPS/Online_Fruits_And_Veggies_DEVOPS-main/index.html"
                 ]
               }
             ],
@@ -54,7 +54,7 @@
           },
           {
             "result": {
-              "duration": 285000000,
+              "duration": 181000000,
               "status": "passed"
             },
             "line": 8,
@@ -72,7 +72,7 @@
           },
           {
             "result": {
-              "duration": 135000000,
+              "duration": 204000000,
               "status": "passed"
             },
             "line": 9,
@@ -90,7 +90,7 @@
           },
           {
             "result": {
-              "duration": 520000000,
+              "duration": 338000000,
               "status": "passed"
             },
             "line": 10,
@@ -111,7 +111,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-07T11:07:20.007Z",
+        "start_timestamp": "2020-10-13T17:12:40.928Z",
         "before": [
           {
             "result": {
@@ -144,7 +144,7 @@
               "PASS: Page Heading is displayed"
             ],
             "result": {
-              "duration": 233000000,
+              "duration": 126000000,
               "status": "passed"
             },
             "line": 14,
@@ -156,7 +156,7 @@
           },
           {
             "result": {
-              "duration": 680000000,
+              "duration": 684000000,
               "status": "passed"
             },
             "line": 15,
@@ -209,7 +209,7 @@
               "THE UI Quantity and Expected Quantity matched"
             ],
             "result": {
-              "duration": 209000000,
+              "duration": 201000000,
               "status": "passed"
             },
             "line": 22,
@@ -224,7 +224,7 @@
               "THE UI Total items and Expected Total items Matched"
             ],
             "result": {
-              "duration": 33000000,
+              "duration": 38000000,
               "status": "passed"
             },
             "line": 23,
@@ -239,7 +239,7 @@
               "The UI Actual Total cost matched with the Expected Total cost"
             ],
             "result": {
-              "duration": 157000000,
+              "duration": 175000000,
               "status": "passed"
             },
             "line": 24,
@@ -251,7 +251,7 @@
           },
           {
             "result": {
-              "duration": 466000000,
+              "duration": 6823000000,
               "status": "passed"
             },
             "line": 25,
@@ -272,10 +272,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-07T11:07:21.797Z",
+        "start_timestamp": "2020-10-13T17:12:48.987Z",
         "before": [
           {
             "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -312,7 +313,7 @@
               }
             ],
             "result": {
-              "duration": 509000000,
+              "duration": 496000000,
               "status": "passed"
             },
             "line": 29,
@@ -324,7 +325,7 @@
           },
           {
             "result": {
-              "duration": 1987000000,
+              "duration": 762000000,
               "status": "passed"
             },
             "line": 31,
@@ -336,7 +337,7 @@
           },
           {
             "result": {
-              "duration": 343000000,
+              "duration": 167000000,
               "status": "passed"
             },
             "line": 32,
@@ -357,7 +358,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-07T11:07:24.642Z",
+        "start_timestamp": "2020-10-13T17:12:50.420Z",
         "before": [
           {
             "result": {
@@ -375,6 +376,7 @@
         "after": [
           {
             "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -390,7 +392,7 @@
               "PASS: Page Heading is displayed"
             ],
             "result": {
-              "duration": 82000000,
+              "duration": 69000000,
               "status": "passed"
             },
             "line": 36,
@@ -405,7 +407,7 @@
               "The success message is displayed"
             ],
             "result": {
-              "duration": 116000000,
+              "duration": 110000000,
               "status": "passed"
             },
             "line": 37,
@@ -423,7 +425,7 @@
               "The total price is displayed"
             ],
             "result": {
-              "duration": 200000000,
+              "duration": 266000000,
               "status": "passed"
             },
             "line": 38,
@@ -435,7 +437,7 @@
           },
           {
             "result": {
-              "duration": 230000000,
+              "duration": 146000000,
               "status": "passed"
             },
             "line": 39,

@@ -4,7 +4,7 @@ Feature: Testing Online Fruits and Veggies
   @Login
   Scenario: Login to Online Fruits and Veggies
   	Given User Launches the APP
-  				|http://localhost:8181|
+  				|file:///C:/Users/Dell/Documents/Demo_DEVOPS/Online_Fruits_And_Veggies_DEVOPS-main/index.html|
     When User gives the Username as "Online_User"
     And User gives the password as "T25saW5lX1VzZXI="
     Then User Clicks on Login button
