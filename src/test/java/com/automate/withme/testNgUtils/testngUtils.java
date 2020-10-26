@@ -56,10 +56,14 @@ public class testngUtils extends AbstractTestNGCucumberTests {
 	
 	  @AfterTest
 	  public void afterTest() {
-		 
+		 try{
 		BrowserFactory browserFactory = BrowserFactory.getInstance();
 		browserFactory.getDriver().close();
 		browserFactory.getDriver().quit();
+		 }
+		 catch(Exception e){
+			 System.out.println("EX");
+		 }
 		  
 //		  driver.close();
 //		  driver.quit();
