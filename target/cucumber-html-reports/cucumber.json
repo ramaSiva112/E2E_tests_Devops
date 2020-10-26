@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2020-10-26T03:41:15.972Z",
+        "start_timestamp": "2020-10-26T03:51:30.557Z",
         "before": [
           {
             "result": {
@@ -21,7 +21,6 @@
         "after": [
           {
             "result": {
-              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -34,7 +33,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2409000000,
+              "duration": 3715000000,
               "status": "passed"
             },
             "line": 6,
@@ -53,7 +52,7 @@
           },
           {
             "result": {
-              "duration": 851000000,
+              "duration": 240000000,
               "status": "passed"
             },
             "line": 8,
@@ -71,7 +70,7 @@
           },
           {
             "result": {
-              "duration": 96000000,
+              "duration": 124000000,
               "status": "passed"
             },
             "line": 9,
@@ -89,7 +88,7 @@
           },
           {
             "result": {
-              "duration": 804000000,
+              "duration": 423000000,
               "status": "passed"
             },
             "line": 10,
@@ -110,7 +109,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-26T03:41:20.150Z",
+        "start_timestamp": "2020-10-26T03:51:35.069Z",
         "before": [
           {
             "result": {
@@ -128,6 +127,7 @@
         "after": [
           {
             "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -143,7 +143,7 @@
               "PASS: Page Heading is displayed"
             ],
             "result": {
-              "duration": 310000000,
+              "duration": 201000000,
               "status": "passed"
             },
             "line": 14,
@@ -155,7 +155,7 @@
           },
           {
             "result": {
-              "duration": 3410000000,
+              "duration": 2728000000,
               "status": "passed"
             },
             "line": 15,
@@ -208,7 +208,7 @@
               "THE UI Quantity and Expected Quantity matched"
             ],
             "result": {
-              "duration": 167000000,
+              "duration": 244000000,
               "status": "passed"
             },
             "line": 22,
@@ -223,7 +223,7 @@
               "THE UI Total items and Expected Total items Matched"
             ],
             "result": {
-              "duration": 23000000,
+              "duration": 44000000,
               "status": "passed"
             },
             "line": 23,
@@ -238,7 +238,7 @@
               "The UI Actual Total cost matched with the Expected Total cost"
             ],
             "result": {
-              "duration": 110000000,
+              "duration": 143000000,
               "status": "passed"
             },
             "line": 24,
@@ -250,7 +250,7 @@
           },
           {
             "result": {
-              "duration": 519000000,
+              "duration": 287000000,
               "status": "passed"
             },
             "line": 25,
@@ -271,10 +271,11 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-26T03:41:24.698Z",
+        "start_timestamp": "2020-10-26T03:51:38.725Z",
         "before": [
           {
             "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -289,7 +290,6 @@
         "after": [
           {
             "result": {
-              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -312,7 +312,7 @@
               }
             ],
             "result": {
-              "duration": 296000000,
+              "duration": 307000000,
               "status": "passed"
             },
             "line": 29,
@@ -324,7 +324,7 @@
           },
           {
             "result": {
-              "duration": 472000000,
+              "duration": 563000000,
               "status": "passed"
             },
             "line": 31,
@@ -357,7 +357,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-26T03:41:25.632Z",
+        "start_timestamp": "2020-10-26T03:51:39.760Z",
         "before": [
           {
             "result": {
@@ -390,7 +390,7 @@
               "PASS: Page Heading is displayed"
             ],
             "result": {
-              "duration": 90000000,
+              "duration": 133000000,
               "status": "passed"
             },
             "line": 36,
@@ -405,7 +405,7 @@
               "The success message is displayed"
             ],
             "result": {
-              "duration": 127000000,
+              "duration": 174000000,
               "status": "passed"
             },
             "line": 37,
@@ -423,7 +423,7 @@
               "The total price is displayed"
             ],
             "result": {
-              "duration": 366000000,
+              "duration": 308000000,
               "status": "passed"
             },
             "line": 38,
@@ -435,106 +435,7 @@
           },
           {
             "result": {
-              "duration": 138000000,
-              "status": "passed"
-            },
-            "line": 39,
-            "name": "User clicks on logout button",
-            "match": {
-              "location": "com.automate.withme.steps.E2e_stepDefs.user_clicks_on_logout_button()"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@E2e"
-          },
-          {
-            "name": "@OederPlaced"
-          }
-        ]
-      }
-    ],
-    "name": "Testing Online Fruits and Veggies",
-    "description": "",
-    "id": "testing-online-fruits-and-veggies",
-    "keyword": "Feature",
-    "uri": "file:Features/E2eTests.feature",
-    "tags": [
-      {
-        "name": "@E2e",
-        "type": "Tag",
-        "location": {
-          "line": 1,
-          "column": 1
-        }
-      }
-    ]
-  }
-]         "result": {
-              "duration": 1000000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.automate.withme.steps.Cucumber_Hooks.After_hook(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "output": [
-              "PASS: Page Heading is displayed"
-            ],
-            "result": {
-              "duration": 234000000,
-              "status": "passed"
-            },
-            "line": 36,
-            "name": "User lands on the Order placed Page",
-            "match": {
-              "location": "com.automate.withme.steps.E2e_stepDefs.user_lands_on_the_Order_placed_Page()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "output": [
-              "The success message is displayed"
-            ],
-            "result": {
-              "duration": 402000000,
-              "status": "passed"
-            },
-            "line": 37,
-            "name": "User verfies the success message",
-            "match": {
-              "location": "com.automate.withme.steps.E2e_stepDefs.user_verfies_the_success_message()"
-            },
-            "keyword": "And "
-          },
-          {
-            "output": [
-              "The Email is displayed",
-              "The Address is displayed",
-              "The  Total items is displayed",
-              "The total price is displayed"
-            ],
-            "result": {
-              "duration": 436000000,
-              "status": "passed"
-            },
-            "line": 38,
-            "name": "Verify if the Details are displayed",
-            "match": {
-              "location": "com.automate.withme.steps.E2e_stepDefs.verify_the_Details_are_accurate()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 546000000,
+              "duration": 130000000,
               "status": "passed"
             },
             "line": 39,
