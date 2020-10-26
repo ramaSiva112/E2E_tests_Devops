@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2020-10-25T20:17:45.016Z",
+        "start_timestamp": "2020-10-26T03:41:15.972Z",
         "before": [
           {
             "result": {
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4334000000,
+              "duration": 2409000000,
               "status": "passed"
             },
             "line": 6,
@@ -53,7 +53,7 @@
           },
           {
             "result": {
-              "duration": 445000000,
+              "duration": 851000000,
               "status": "passed"
             },
             "line": 8,
@@ -71,7 +71,7 @@
           },
           {
             "result": {
-              "duration": 227000000,
+              "duration": 96000000,
               "status": "passed"
             },
             "line": 9,
@@ -89,7 +89,7 @@
           },
           {
             "result": {
-              "duration": 1059000000,
+              "duration": 804000000,
               "status": "passed"
             },
             "line": 10,
@@ -110,11 +110,10 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-25T20:17:51.104Z",
+        "start_timestamp": "2020-10-26T03:41:20.150Z",
         "before": [
           {
             "result": {
-              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -144,7 +143,7 @@
               "PASS: Page Heading is displayed"
             ],
             "result": {
-              "duration": 368000000,
+              "duration": 310000000,
               "status": "passed"
             },
             "line": 14,
@@ -156,7 +155,7 @@
           },
           {
             "result": {
-              "duration": 3630000000,
+              "duration": 3410000000,
               "status": "passed"
             },
             "line": 15,
@@ -209,7 +208,7 @@
               "THE UI Quantity and Expected Quantity matched"
             ],
             "result": {
-              "duration": 799000000,
+              "duration": 167000000,
               "status": "passed"
             },
             "line": 22,
@@ -224,7 +223,7 @@
               "THE UI Total items and Expected Total items Matched"
             ],
             "result": {
-              "duration": 460000000,
+              "duration": 23000000,
               "status": "passed"
             },
             "line": 23,
@@ -239,7 +238,7 @@
               "The UI Actual Total cost matched with the Expected Total cost"
             ],
             "result": {
-              "duration": 613000000,
+              "duration": 110000000,
               "status": "passed"
             },
             "line": 24,
@@ -251,7 +250,7 @@
           },
           {
             "result": {
-              "duration": 550000000,
+              "duration": 519000000,
               "status": "passed"
             },
             "line": 25,
@@ -272,7 +271,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-25T20:17:57.530Z",
+        "start_timestamp": "2020-10-26T03:41:24.698Z",
         "before": [
           {
             "result": {
@@ -290,6 +289,7 @@
         "after": [
           {
             "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -312,7 +312,7 @@
               }
             ],
             "result": {
-              "duration": 388000000,
+              "duration": 296000000,
               "status": "passed"
             },
             "line": 29,
@@ -324,7 +324,7 @@
           },
           {
             "result": {
-              "duration": 582000000,
+              "duration": 472000000,
               "status": "passed"
             },
             "line": 31,
@@ -336,7 +336,7 @@
           },
           {
             "result": {
-              "duration": 179000000,
+              "duration": 159000000,
               "status": "passed"
             },
             "line": 32,
@@ -357,11 +357,10 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-25T20:17:58.689Z",
+        "start_timestamp": "2020-10-26T03:41:25.632Z",
         "before": [
           {
             "result": {
-              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -391,7 +390,7 @@
               "PASS: Page Heading is displayed"
             ],
             "result": {
-              "duration": 136000000,
+              "duration": 90000000,
               "status": "passed"
             },
             "line": 36,
@@ -406,7 +405,7 @@
               "The success message is displayed"
             ],
             "result": {
-              "duration": 164000000,
+              "duration": 127000000,
               "status": "passed"
             },
             "line": 37,
@@ -424,7 +423,7 @@
               "The total price is displayed"
             ],
             "result": {
-              "duration": 414000000,
+              "duration": 366000000,
               "status": "passed"
             },
             "line": 38,
@@ -436,7 +435,7 @@
           },
           {
             "result": {
-              "duration": 131000000,
+              "duration": 138000000,
               "status": "passed"
             },
             "line": 39,
@@ -473,7 +472,8 @@
       }
     ]
   }
-]       "result": {
+]         "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "match": {
@@ -489,7 +489,7 @@
               "PASS: Page Heading is displayed"
             ],
             "result": {
-              "duration": 171000000,
+              "duration": 234000000,
               "status": "passed"
             },
             "line": 36,
@@ -504,7 +504,7 @@
               "The success message is displayed"
             ],
             "result": {
-              "duration": 212000000,
+              "duration": 402000000,
               "status": "passed"
             },
             "line": 37,
@@ -522,7 +522,7 @@
               "The total price is displayed"
             ],
             "result": {
-              "duration": 455000000,
+              "duration": 436000000,
               "status": "passed"
             },
             "line": 38,
@@ -534,7 +534,7 @@
           },
           {
             "result": {
-              "duration": 366000000,
+              "duration": 546000000,
               "status": "passed"
             },
             "line": 39,

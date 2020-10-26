@@ -35,8 +35,8 @@ public class BrowserFactory {
 //			System.setProperty("webdriver.chrome.driver", "C:\\Users\\Dell\\Desktop\\Tutorials\\Drivers\\chromedriver.exe");
 //			webDriver.set(new ChromeDriver());
 			ChromeOptions options = new ChromeOptions();
-		    options.addArguments("--start-maximized");
-		    options.addArguments("--disable-infobars");
+//		    options.addArguments("--start-maximized");
+//		    options.addArguments("--disable-infobars");
 		DesiredCapabilities dc = DesiredCapabilities.chrome();
 		    dc.setCapability(ChromeOptions.CAPABILITY, options);
 		webDriver.set( new RemoteWebDriver(new URL("http://192.168.26.1:4444/wd/hub"),dc));
