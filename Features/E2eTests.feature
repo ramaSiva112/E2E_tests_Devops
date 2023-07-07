@@ -1,5 +1,4 @@
 @E2e
-@rama
 @regression
 Feature: Testing Online Fruits and Veggies
  
