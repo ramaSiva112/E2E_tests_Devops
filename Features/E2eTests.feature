@@ -1,4 +1,5 @@
 @E2e
+@rama
 Feature: Testing Online Fruits and Veggies
  
   @Login
